@@ -1,4 +1,4 @@
-# 🚗 Kilometraje and Event Reporting Automation
+# 🚗 T-Comparto Monthly Kilometer Report Automation
 
 This Python project automates the extraction, processing, and reporting of event data and travel distances for a monthly **kilometer report** for the T-Comparto app (you must have access to this application in order for this program to work). It integrates data from an Android device and Google Maps to calculate distances between event locations, generating both PDF and TXT reports.
 
